@@ -1,0 +1,1 @@
+//Egyéni feladatokat küldtek el 02.22-én, később updatelem a megoldásokat.
